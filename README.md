@@ -1,5 +1,5 @@
  ## Olá! Eu sou o PatrickEN-dev
-- 🔭 Hoje eu estou trablhando com projetos isolados para melhorar minha prática
+- 🔭 Hoje eu estou trabalhando com projetos isolados para melhorar minha prática
 - 🌱 Atualmente estou estudando JS, HTML5, CSS3
 - 👯 Procuro colaborar em projetos básicos
 - 😄 Pronouns: Ele/Dele
