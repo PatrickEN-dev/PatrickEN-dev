@@ -1,8 +1,20 @@
- ## Olá! Eu sou o PatrickEN-dev
-- 🔭 Hoje eu estou trabalhando com projetos isolados para melhorar minha prática
-- 🌱 Atualmente estou estudando JS, HTML5, CSS3
+ ## Olá! Eu sou o PatrickEN-dev 
+- 🚀 Hoje estou trabalhando com projetos isolados para melhorar minha prática
+- 🕘 Atualmente estou estudando JS, HTML5, CSS3
 - 👯 Procuro colaborar em projetos básicos
 - 😄 Pronouns: Ele/Dele
+
+##
+
+### <p align = "center">Aqui você pode entrar em contato comigo!
+
+<div align = "center"> 
+  <a href = "patrickandreia2505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  <a href = "http://api.whatsapp.com/send?1=pt_BR&phone=5514991336409"><img src=	"https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank></a>
+   <a href="https://www.linkedin.com/in/patrick-almeida-64b897237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+#
 
 <div align = "center">
   <div align = "center">
@@ -23,10 +35,5 @@
 </div>
   
   ##
- 
-<div>  
-  <a href = "patrickandreia2505@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrick-almeida-64b897237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ![snake animation](https://github.com/PatrickEN-dev/PatrickEN-dev/blob/output/github-contribution-grid-snake.svg)
