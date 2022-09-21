@@ -1,4 +1,4 @@
- ## Olá! Eu sou o PatrickEN-dev 
+ ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
 - 🚀 Hoje estou trabalhando com projetos isolados para melhorar minha prática
 - 🕘 Atualmente estou estudando JS, HTML5, CSS3
 - 👯 Procuro colaborar em projetos básicos
