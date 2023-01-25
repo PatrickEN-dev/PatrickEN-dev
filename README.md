@@ -5,8 +5,7 @@
 - 😄 Pronouns: Ele/Dele
 
 ##
-
-### <p align = "center">Aqui você pode entrar em contato comigo!
+<p align = "center">Aqui você pode entrar em contato comigo!
 
 <div align = "center"> 
   <a href = "patrickandreia2505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -28,9 +27,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icone-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg">
   <img aling="center" alt="icone-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor">
-  <img aling="center" alt="icone-react" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=30&color=currentColor">
+  <img aling="center" alt="icone-scss" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=30&color=currentColor">
 </div>
   
   ##
