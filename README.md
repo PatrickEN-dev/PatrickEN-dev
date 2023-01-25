@@ -1,6 +1,6 @@
  ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
 - 🚀 Hoje estou trabalhando com projetos isolados para melhorar minha prática
-- 🕘 Atualmente estou estudando JS,SCSS, React.
+- 🕘 Atualmente estou estudando JS, SCSS, React.
 - 👯 Procuro colaborar em projetos intermediarios
 - 😄 Pronouns: Ele/Dele
 
