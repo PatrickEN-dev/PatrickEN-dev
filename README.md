@@ -1,7 +1,7 @@
  ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
 - 🚀 Hoje estou trabalhando com projetos isolados para melhorar minha prática
-- 🕘 Atualmente estou estudando JS, HTML5, CSS3
-- 👯 Procuro colaborar em projetos básicos
+- 🕘 Atualmente estou estudando JS,SCSS, React.
+- 👯 Procuro colaborar em projetos intermediarios
 - 😄 Pronouns: Ele/Dele
 
 ##
@@ -26,9 +26,11 @@
      </br>
        <div align = "center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aling="center" alt="icone-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor">
+  <img aling="center" alt="icone-react" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=30&color=currentColor">
 </div>
   
   ##
