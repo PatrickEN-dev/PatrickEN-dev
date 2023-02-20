@@ -23,13 +23,28 @@
      </div>
      </div>
      </br>
-       <div align = "center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icone-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg">
-  <img aling="center" alt="icone-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor">
-  <img aling="center" alt="icone-scss" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=30&color=currentColor">
+<div >
+    <h3>Technologies</h3>
+    <div style="display: inline_block">
+        <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        <img align="center" alt="ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    </div>  
+    <br>
+    <h3>Frameworks</h3>
+     <div style="display: inline_block">
+         <img align="center" alt="Davy-Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+         <img align="center" alt="Davy-Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+     </div>
+     <br>
+     <h3>Others</h3>
+     <div style="display: inline_block">
+         <img align="center" alt="Davy-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     </div>
+ </div>  
+<br>
 </div>
   
   ##
