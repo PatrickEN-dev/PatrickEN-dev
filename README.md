@@ -1,9 +1,13 @@
  ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
  
 🚀 Today I'm working on isolated projects to improve my skills.
+<br>
 🕘 I'm currently studying SCSS, React and Typescript.
+<br>
 👯 I'm looking to collaborate on intermediate-level projects.
+     <br>
 😄 Pronouns: He/Him.
+     <br>
 
 ##
 <p align = "center">These are my social media accounts, feel free to get in touch with me!
