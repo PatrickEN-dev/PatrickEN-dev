@@ -1,11 +1,12 @@
  ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
-- 🚀 Hoje estou trabalhando com projetos isolados para melhorar minha prática
-- 🕘 Atualmente estou estudando JS, SCSS, React.
-- 👯 Procuro colaborar em projetos intermediarios
-- 😄 Pronouns: Ele/Dele
+ 
+🚀 Today I'm working on isolated projects to improve my skills.
+🕘 I'm currently studying SCSS, React and Typescript.
+👯 I'm looking to collaborate on intermediate-level projects.
+😄 Pronouns: He/Him.
 
 ##
-<p align = "center">Aqui você pode entrar em contato comigo!
+<p align = "center">These are my social media accounts, feel free to get in touch with me!
 
 <div align = "center"> 
   <a href = "patrickandreia2505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
