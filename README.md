@@ -2,7 +2,7 @@
  
 🚀 Today I'm working on isolated projects to improve my skills.
 <br>
-🕘 I'm currently studying SCSS, React and Typescript.
+🕘 I'm currently studying Bootstrap and Ptyhon.
 <br>
 👯 I'm looking to collaborate on intermediate-level projects.
      <br>
