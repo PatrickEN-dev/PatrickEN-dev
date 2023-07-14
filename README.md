@@ -42,10 +42,20 @@
     <h3>Frameworks</h3>
      <div style="display: inline_block">
          <img align="center" alt="Davy-Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-         <img align="center" alt="Davy-Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        <img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+       <img  align="center" alt="Sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+       <img align="center" alt="Next.js" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+      <img align="center" alt="Nest.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
      </div>
      <br>
-     <h3>Others</h3>
+     <h3>Database systems<h3>
+        <div style="display: inline_block">
+      <img align="center" alt="Postgres" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+        <img align="center" alt="MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+         <img align="center" alt="SQLite" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+       </div>
+       <br>
+     <h3>Version controller</h3>
      <div style="display: inline_block">
          <img align="center" alt="Davy-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
      </div>
