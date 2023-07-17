@@ -62,7 +62,3 @@
  </div>  
 <br>
 </div>
-  
-  ##
-
-![snake animation](https://github.com/PatrickEN-dev/PatrickEN-dev/blob/output/github-contribution-grid-snake.svg)
