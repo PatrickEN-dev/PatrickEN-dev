@@ -1,8 +1,10 @@
- ## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o PatrickEN-dev 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;I'm+Full+Stack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 🚀 Today I'm working on isolated projects to improve my skills.
 <br>
-🕘 I'm currently studying Bootstrap and Ptyhon.
+🕘 I'm currently studying Bootstrap and Nest.js.
 <br>
 👯 I'm looking to collaborate on intermediate-level projects.
      <br>
@@ -63,3 +65,4 @@
  </div>  
 <br>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=footer"/>
