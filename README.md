@@ -14,8 +14,8 @@
 <p align = "center">These are my social media accounts, feel free to get in touch with me!
 
 <div align="center"> 
-  <a href="mailto:patrickandreia2505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5514991336409"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:patrickandreia2505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5514991336409" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/patrick-almeida-64b897237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
