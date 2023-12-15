@@ -6,7 +6,7 @@
 <br>
 🕘 Learning TailwindCSS and Nest.js.
 <br>
-💼🌐 Seeking web development job opportunities.
+💼🌐 Seeking web development project opportunities.
 <br>
 😄 Pronouns: He/Him.
 
