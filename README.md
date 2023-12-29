@@ -6,7 +6,7 @@
 <br>
 🕘 Learning TailwindCSS and Nest.js, Code infrastructure and Git flow at an enterprise level.
 <br>
-💼🌐 Working at AR Digital Lab as a full-stack web developer.
+💼🌐 Working at AR Digital Labs as a full-stack web developer.
 <br>
 😄 Pronouns: He/Him.
 
