@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;I'm+Full+Stack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
-🚀 Actively working on personal projects to enhance skills.
+🚀 Actively working on personal projects to enhance skills & Teaching programming to beginners.
 <br>
-🕘 Learning TailwindCSS and Nest.js.
+🕘 Learning TailwindCSS and Nest.js, Code infrastructure and Git flow at an enterprise level.
 <br>
-💼🌐 Seeking web development project opportunities.
+💼🌐 Working at AR Digital Lab as a full-stack web developer.
 <br>
 😄 Pronouns: He/Him.
 
