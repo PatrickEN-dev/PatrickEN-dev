@@ -8,7 +8,7 @@
 🕘 Learning CI/CD, microsservices, Code infrastructure and multi-tenant application at an enterprise level.
 <br>
 <br>
-💼🌐 Working at AR Digital Labs as a Full-Stack Software engineer.
+💼🌐 Working at AR Digital Labs as a Full-Stack Software Engineer.
 <br>
 <br>
 😄 Pronouns: He/Him.
