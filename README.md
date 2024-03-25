@@ -5,10 +5,10 @@
 🚀 Actively working on personal projects to enhance skills & Teaching programming to beginners.
 <br>
 <br>
-🕘 Learning TailwindCSS and Nest.js, Code infrastructure and Git flow at an enterprise level.
+🕘 Learning CI/CD, microsservices, Code infrastructure and multi-tenant application at an enterprise level.
 <br>
 <br>
-💼🌐 Working at AR Digital Labs as a full-stack web developer.
+💼🌐 Working at AR Digital Labs as a Full-Stack Software engineer.
 <br>
 <br>
 😄 Pronouns: He/Him.
