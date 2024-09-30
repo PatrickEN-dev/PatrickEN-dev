@@ -11,7 +11,6 @@
 💼🌐 Working at AR Digital Labs as a Full-Stack Software Engineer.
 <br>
 <br>
-😄 Pronouns: He/Him.
 
 ##
 <p align = "center">These are my social media accounts, feel free to get in touch with me!
