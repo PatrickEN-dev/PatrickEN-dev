@@ -1,7 +1,7 @@
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;I'm+Full+Stack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;I'm+Full+Stack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 🚀 Actively working on personal projects to enhance skills & Teaching programming to beginners.
 <br>
 <br>
@@ -13,7 +13,7 @@
 <br>
 
 ##
-<p align = "center">These are my social media accounts, feel free to get in touch with me!
+<p align="center">These are my social media accounts, feel free to get in touch with me!
 
 <div align="center"> 
   <a href="mailto:patrickandreia2505@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -23,49 +23,61 @@
 
 #
 
-<div align = "center">
-  <div align = "center">
-  <a href="https://github.com/PatrickEN-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickEN-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickEN-dev&layout=compact&langs_count=7&theme=dracula"/>
-     </div>
-     </div>
-     </br>
-<div>
-    <h3>Technologies</h3>
-    <div style="display: inline_block">
-        <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin: 0 10px">
-        <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin: 0 10px">
-        <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 0 10px">
-        <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin: 0 10px">
-        <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin: 0 10px">
-        <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 0 10px">
-        <img align="center" alt="Docker" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="margin: 0 10px">
-    </div>  
-    <br>
-    <h3>Frameworks</h3>
-     <div style="display: inline_block">
-         <img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin: 0 10px">
-        <img align="center" alt="Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="margin: 0 10px">
-       <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="margin: 0 10px">
-       <img align="center" alt="Nest.js" height="40" width="40" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" style="margin: 0 10px">
-      <img align="center" alt="Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="margin: 0 10px">
-      <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin: 0 10px">
-     </div>
-     <br>
-     <h3>Database systems</h3>
-        <div style="display: inline_block; margin: 10px 0">
-      <img align="center" alt="Postgres" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="margin: 0 15px">
-        <img align="center" alt="MySQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin: 0 15px">
-         <img align="center" alt="SQLite" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin: 0 15px">
-         <img align="center" alt="MongoDB" height="48" width="128" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" style="margin: 0 15px">
-       </div>
-       <br>
-     <h3>Version controller</h3>
-     <div style="display: inline_block">
-         <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 0 10px">
-     </div>
- </div>  
+## My Skills
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatrickEN-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PatrickEN-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff4&height=120&section=footer"/>
+###
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<h3>🖥️ Technologies</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs&perline=6&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<h3>🚀 Frameworks</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,django,dotnet,bootstrap,sass&perline=6&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<h3>🗄️ Database systems</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<h3>🛠️ Tools & DevOps</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode&perline=6&theme=dark" />
+  </a>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
