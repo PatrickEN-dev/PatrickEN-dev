@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;I'm+Full+Stack+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Almeida;Software+Architect+%7C+Full+Stack+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🚀 Actively working on personal projects to enhance skills & Teaching programming to beginners.
+💼 Software Architect at **Sttart Pay** — designing scalable, resilient systems with a strong focus on backend architecture, performance and long-term maintainability.
 <br>
 <br>
-🕘 Learning CI/CD, microsservices, Code infrastructure and multi-tenant application at an enterprise level.
+🛠️ Experienced across the full stack, with deep roots in backend engineering. I care about clean boundaries, solid contracts and systems that are built to last.
 <br>
 <br>
-💼🌐 Working at AR Digital Labs as a Full-Stack Software Engineer.
+☁️ Currently deepening expertise in **DevOps on AWS and Azure DevOps** — from infrastructure as code to CI/CD pipelines, container orchestration and cloud-native patterns.
 <br>
 <br>
 
@@ -46,11 +46,11 @@
 
 <br>
 
-<h3>🚀 Frameworks</h3>
+<h3>🚀 Frameworks & Libraries</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,django,dotnet,bootstrap,sass&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,django,dotnet,sass,tailwind,prisma&perline=8&theme=dark" />
   </a>
 </p>
 
@@ -66,15 +66,24 @@
 
 <br>
 
-<h3>🛠️ Tools & DevOps</h3>
+<h3>☁️ Cloud & DevOps</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,azure&perline=6&theme=dark" />
   </a>
 </p>
 
 <br>
+
+<h3>🛠️ Tools</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,linux&perline=6&theme=dark" />
+  </a>
+</p>
+
 <br>
 <br>
 <br>
